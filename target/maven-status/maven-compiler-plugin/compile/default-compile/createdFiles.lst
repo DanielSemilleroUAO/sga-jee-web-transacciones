@@ -1,0 +1,5 @@
+com/daniel/sga/service/PersonaServiceRemote.class
+com/daniel/sga/domain/Persona.class
+com/daniel/sga/cliente/ClientePersonaService.class
+com/daniel/sga/cliente/PruebaManejoTransacciones.class
+com/daniel/sga/domain/Usuario.class
